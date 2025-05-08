@@ -9,3 +9,9 @@ img{
 	height:100vh;
 	object-fit:cover;
 }
+button{
+	padding:10px;
+	color:white;
+	border-radius:20px;
+	
+}
